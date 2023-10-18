@@ -1,9 +1,9 @@
 from typing import Any
 
-objects = [[], []]
+objects = [[], [], []]
 
 
-def add_object(o: Any, depth= 0):
+def add_object(o: Any, depth=0):
     objects[depth].append(o)
 
 
