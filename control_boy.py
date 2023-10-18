@@ -6,7 +6,7 @@ from boy import Boy
 
 
 # Game object class here
-
+# 2020182009 김승범 Drill# 10 
 
 def handle_events():
     global running
